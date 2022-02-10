@@ -1,0 +1,10 @@
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\bin\Debug\BarKhatteSaze_Plugin.dll
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\bin\Debug\BarKhatteSaze_Plugin.pdb
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\bin\Debug\ETABSv1.dll
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.FrmMain.resources
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.csproj.GenerateResource.Cache
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.dll
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.pdb
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.FrmDisplayDataTables.resources
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.Properties.Resources.resources
+C:\Users\Esmail\Documents\Visual Studio 2015\Projects\WindowsFormsHostingWpfControl\BarKhatteSaze_Plugin\BarKhatteSaze_Plugin\obj\Debug\BarKhatteSaze_Plugin.csprojResolveAssemblyReference.cache
